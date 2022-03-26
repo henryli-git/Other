@@ -1,5 +1,3 @@
-
-
 # Useful functions in creating a file renaming bot
     # import os
     # os.chdir()
