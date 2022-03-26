@@ -1,4 +1,4 @@
-# Useful functions in creating a file renaming bot
+# Useful functions in creating a file renaming script
     # import os
     # os.chdir()
     # os.listdir()
